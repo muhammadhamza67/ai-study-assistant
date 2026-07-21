@@ -120,7 +120,7 @@ class _PromptScreenState extends State<PromptScreen> {
                 const SizedBox(width: 8),
                 IconButton(
                   onPressed: sendRequest,
-                  icon: const Icon(Icons.send, color: Colors.white),
+                  icon: const Icon(Icons.send, color: Color.fromARGB(255, 23, 16, 16)),
                 )
               ],
             ),
