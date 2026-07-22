@@ -5,7 +5,7 @@ class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
   final List<Map<String, dynamic>> features = const [
-    {"title": " Topic", "type": "explain", "icon": Icons.menu_book},
+    {"title": " Topic", "tpe": "explain", "icon": Icons.menu_book},
     {"title": "Qui Generator", "type": "quiz", "icon": Icons.quiz},
     {"title": "Step-by-Step Tutor", "type": "tutor", "icon": Icons.school},
     {"title": "Coding Helper", "type": "code", "icon": Icons.code},
