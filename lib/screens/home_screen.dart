@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
     {"title": "Step-by-Step Tutor", "type": "tutor", "icon": Icons.school},
     {"title": "Coding Helper", "type": "code", "icon": Icons.code},
     {"title": "Debug Assistant", "type": "debug", "icon": Icons.bug_report},
-    {"title": "Notes generator", "type": "notes", "icon": Icons.note},
+    {"title": "Ntes generator", "type": "notes", "icon": Icons.note},
   ];
 
   @override
